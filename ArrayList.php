@@ -1,5 +1,12 @@
 <?php
 
+/**
+* @package ArrayList
+* @author  Lewis Williams
+* @version 1.0
+* @access  public
+**/
+
 namespace Lewy;
 
 class ArrayList
