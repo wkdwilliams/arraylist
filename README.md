@@ -2,6 +2,8 @@
 
 Unlike Java and C#, PHP is not a pure object-oriented language. An array in PHP has no built-in methods you can apply; it must be manipulated via "normal" functions. It is purely procedural based.
 
+This library allows you to create an object-oriented array in which provides you with fast and easy-to-use methods to manipulate data, very much like the popular ArrayList in C# and Java. 
+
 ## Basic Usage
 ```php
 <?php
